@@ -1,0 +1,32 @@
+name: Structure Check
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Validate required hub files
+        shell: bash
+        run: |
+          set -e
+          required=(
+            "README.md"
+            "docs/course-catalog.md"
+            "docs/classroom-replacement-architecture.md"
+            "courses/HED3505/README.md"
+            "templates/assignment/README.md"
+            "templates/student-portfolio/README.md"
+          )
+          for f in "${required[@]}"; do
+            if [[ ! -f "$f" ]]; then
+              echo "Missing required file: $f"
+              exit 1
+            fi
+          done
+          echo "Required structure is present."
