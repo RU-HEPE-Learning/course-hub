@@ -9,23 +9,29 @@ Use this page as the mobile-friendly starting point for HED3505.
 Course workspace:  
 https://github.com/RU-HEPE-Learning/course-hed3505
 
-### Step 2 — Follow the five-week path
+### Step 2 — Follow the five-module path
 
-| Week | Learn | Do |
+| Module | Learning path | Progressive artifact |
 |---|---|---|
-| 01 | Measurement, Assessment and Evaluation | Assignment 01 — Evidence Classification |
-| 02 | School Health Data Interpretation and CPR Dataset | Assignment 02 — CPR Evidence Interpretation |
-| 03 | Logic Model and Evaluation Matrix | Assignment 03 — Logic Model and Evaluation Matrix |
-| 04 | Equity Audit and Subgroup Interpretation | Assignment 04 — Equity Audit |
-| 05 | Evidence Synthesis and Improvement Plan | Assignment 05 — Evidence Synthesis and Improvement Plan |
+| 01 | Problem → Indicator | WS1 Assessment Planning |
+| 02 | Indicator → Instrument | WS2 Instrument Blueprint |
+| 03 | Content Validity → IOC → Reliability → Revision | WS3 Instrument Quality Record |
+| 04 | Data → Interpretation → Decision | WS4 Interpretation & Decision Matrix |
+| 05 | Integrated Evidence → Evaluation Plan | WS5 Integrated Evaluation Plan |
 
-### Step 3 — Use the same workflow every week
+### Step 3 — Use the same activity logic every module
 
-**Learn → Do → Save Evidence → Submit → Reflect & Review Feedback**
+**Prompt → Tap → Reveal → Discuss → Decide → Save**
 
-### Step 4 — Portfolio
+### Step 4 — Use the same learning workflow
 
-After instructor review, retain the final accepted learning artifact and reflection in the designated private portfolio repository.
+**Learn → Interact → Decide → Save Evidence → Submit → Reflect & Review Feedback**
+
+### Step 5 — Build the progressive portfolio
+
+**WS1 → WS2 → WS3 → WS4 → WS5**
+
+Each module should build on prior evidence rather than restart from zero.
 
 ## Master case
 
@@ -37,7 +43,7 @@ After instructor review, retain the final accepted learning artifact and reflect
 - Do not invent missing case data.
 - Use only approved course evidence.
 - Preserve uncertainty where evidence is incomplete or conflicting.
-- Do not publish unsupported CLO/PLO, score, weight, deadline, or outcome claims.
+- Do not publish unsupported CLO/PLO, score, weight, deadline, outcome, or case-fact claims.
 
 ## Privacy
 
@@ -48,9 +54,9 @@ Do not place student IDs, private contact information, health information, offic
 ## Smartphone use
 
 Students should be able to:
-- open weekly learning materials;
+- open module learning materials;
 - read Markdown files;
-- open the matching assignment;
+- open the activity and matching assignment;
 - edit or upload permitted evidence;
 - commit changes;
 - review feedback;
