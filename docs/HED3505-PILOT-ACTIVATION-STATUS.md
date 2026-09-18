@@ -6,6 +6,8 @@ Date: 19 September 2026
 
 CONTROLLED STUDENT PILOT: AUTHORIZED
 
+ONBOARDING MECHANISM: OPTION C APPROVED
+
 REAL ACCOUNT INVITATION: NOT EXECUTED
 
 IDENTITY COLLECTION: NOT AUTHORIZED
@@ -34,6 +36,6 @@ https://kasemch.github.io/hed3505-interactive-lab/
 
 ## Next true human gate
 
-Choose and authorize the real-student onboarding mechanism before any account invitation or student-specific private repository creation.
+Confirm the exact instructor-controlled private submission destination for Option C before any real-student start.
 
 Until then, preparation and synthetic/teacher walkthroughs are allowed; real student onboarding is not.
