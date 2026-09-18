@@ -9,6 +9,17 @@ Use this page as the mobile-friendly starting point for HED3505.
 Course workspace:  
 https://github.com/RU-HEPE-Learning/course-hed3505
 
+### Step 1.5 — Open the Interactive Learning Lab
+
+Interactive Learning Lab:  
+https://kasemch.github.io/hed3505-interactive-lab/
+
+Use the lab for the mobile-first activity flow:
+
+**Prompt → Tap → Reveal → Discuss → Decide → Save**
+
+The lab is static-first, does not require student login, and does not collect student identity or official grades.
+
 ### Step 2 — Follow the five-module path
 
 | Module | Learning path | Progressive artifact |
