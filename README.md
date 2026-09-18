@@ -9,8 +9,8 @@ Central learning hub for Health Education and Physical Education courses, assign
 **HED3505 — School Health Program and Evaluation**
 
 1. Open the HED3505 entry page: [courses/HED3505/README.md](courses/HED3505/README.md)
-2. Follow the current week.
-3. Open the matching assignment.
+2. Follow the current module.
+3. Open the matching activity and assignment.
 4. Save evidence and reflection in the designated private repository/portfolio.
 5. Review instructor feedback.
 6. Keep the final accepted artifact in the portfolio.
@@ -39,12 +39,16 @@ Central learning hub for Health Education and Physical Education courses, assign
 
 Master case: **โรงเรียนอรุณพัฒนา**
 
-Five-week path:
-1. Measurement, Assessment and Evaluation
-2. School Health Data Interpretation and CPR Dataset
-3. Logic Model and Evaluation Matrix
-4. Equity Audit and Subgroup Interpretation
-5. Evidence Synthesis and Improvement Plan
+Five-module progression:
+1. Problem → Indicator
+2. Indicator → Instrument
+3. Content Validity → IOC → Reliability → Revision
+4. Data → Interpretation → Decision
+5. Integrated Evidence → Evaluation Plan
+
+All five modules use the same mobile-first interaction pattern:
+
+**Prompt → Tap → Reveal → Discuss → Decide → Save**
 
 ## Mobile-first principle
 
@@ -57,7 +61,7 @@ The learning path must remain usable from a smartphone browser without requiring
 3. Sensitive student, health, grade, identity, or confidential school information must not be committed to public repositories.
 4. Assessment criteria should be explicit before submission.
 5. Automation supports workflow quality but does not replace instructor judgment.
-6. Formal CLO/PLO mapping, scoring weights, deadlines, and reported outcomes require verified authoritative evidence.
+6. Formal CLO/PLO mapping, scoring weights, deadlines, reported outcomes, and case facts require verified authoritative evidence.
 
 ## Architecture status
 
