@@ -1,28 +1,62 @@
 # HED3505 — School Health Program and Evaluation
 
-## Pilot learning space
+## Student entry
 
-This course is the first pilot inside RU-HEPE Learning Hub.
+Use this page as the mobile-friendly starting point for HED3505.
 
-### Master case
+### Step 1 — Open the course workspace
 
-**โรงเรียนอรุณพัฒนา** is the canonical school case for the 5-session learning sequence and related worksheets, Forms, dashboard activities, and portfolio evidence.
+Course workspace:  
+https://github.com/RU-HEPE-Learning/course-hed3505
 
-### Learning sequence
+### Step 2 — Follow the five-week path
 
-1. Evidence interpretation and problem identification
-2. Measurement, assessment, and evaluation
-3. Logic model and evaluation matrix
-4. Equity, implementation audit, and contradictory evidence
-5. Improvement planning and evidence-based recommendations
+| Week | Learn | Do |
+|---|---|---|
+| 01 | Measurement, Assessment and Evaluation | Assignment 01 — Evidence Classification |
+| 02 | School Health Data Interpretation and CPR Dataset | Assignment 02 — CPR Evidence Interpretation |
+| 03 | Logic Model and Evaluation Matrix | Assignment 03 — Logic Model and Evaluation Matrix |
+| 04 | Equity Audit and Subgroup Interpretation | Assignment 04 — Equity Audit |
+| 05 | Evidence Synthesis and Improvement Plan | Assignment 05 — Evidence Synthesis and Improvement Plan |
 
-### Evidence-first rules
+### Step 3 — Use the same workflow every week
+
+**Learn → Do → Save Evidence → Submit → Reflect & Review Feedback**
+
+### Step 4 — Portfolio
+
+After instructor review, retain the final accepted learning artifact and reflection in the designated private portfolio repository.
+
+## Master case
+
+**โรงเรียนอรุณพัฒนา** is the canonical master case for the course learning sequence, activities, worksheets, dashboards, and portfolio evidence.
+
+## Evidence-first rules
 
 - Distinguish facts, interpretations, recommendations, and unknowns.
-- Do not invent missing school data.
-- Cite or identify the source of evidence used in each decision.
+- Do not invent missing case data.
+- Use only approved course evidence.
 - Preserve uncertainty where evidence is incomplete or conflicting.
+- Do not publish unsupported CLO/PLO, score, weight, deadline, or outcome claims.
 
-### Submission model
+## Privacy
 
-Student work should not be committed directly to this public hub. Assignments will use dedicated student/group repositories or controlled pull-request workflows.
+Student work is private by default.
+
+Do not place student IDs, private contact information, health information, official grades, identity mappings, or confidential school information in a public repository.
+
+## Smartphone use
+
+Students should be able to:
+- open weekly learning materials;
+- read Markdown files;
+- open the matching assignment;
+- edit or upload permitted evidence;
+- commit changes;
+- review feedback;
+
+using the GitHub web interface without a command line.
+
+## Submission model
+
+Student-specific work should use designated private repositories or portfolio spaces. Public course repositories contain learning materials and de-identified instructional evidence only.
