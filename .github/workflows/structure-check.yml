@@ -19,6 +19,8 @@ jobs:
             "README.md"
             "docs/course-catalog.md"
             "docs/classroom-replacement-architecture.md"
+            "docs/student-workflow.md"
+            "docs/hed3505-mobile-navigation.md"
             "courses/HED3505/README.md"
             "templates/assignment/README.md"
             "templates/student-portfolio/README.md"
@@ -29,4 +31,4 @@ jobs:
               exit 1
             fi
           done
-          echo "Required structure is present."
+          echo "Required Learning Hub structure is present."
